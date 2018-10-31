@@ -1,0 +1,16 @@
+body {
+    background-image: url(img/background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.max-viewport {
+    min-height: 100vh;
+}
+
+#banner,
+#contact,
+#social {
+    background: rgba(253, 253, 253, 0.3);
+}
